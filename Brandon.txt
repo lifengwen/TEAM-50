@@ -1,3 +1,7 @@
 I am Brandon
+<<<<<<< HEAD
 Ive made changes
+=======
+Oh No
+>>>>>>> refs/remotes/origin/Brandon's-Branch
 //End
